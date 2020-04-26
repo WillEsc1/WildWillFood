@@ -1,2 +1,5 @@
 # WildWillFood
-HTML, CSS
+Premium food delivery service. Users can sign up 
+
+# What I learned
+
