@@ -6,4 +6,6 @@ Premium food delivery service.
 2. Opacity effects with CSS.
 
 # What needs to get added
-Work on sign up page to capture user information and send out thank you email.
+1. Work on sign up page to capture user information and send out thank you email.
+2. Work on navigation links.
+3. Make website mobile friendly.
